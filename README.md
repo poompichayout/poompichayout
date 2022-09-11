@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Poompichayout Kongpiam, a full-stack developer
 
-I'm 3rd year college student in computer science, Thammasat University, Thailand
+I'm 4th year college student in computer science, Thammasat University, Thailand
 
 ## Tech Stacks
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
